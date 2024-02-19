@@ -1,2 +1,3 @@
-# remohy-separator
-> Repozitář pro projekt Remyho separátoru
+# Remyho separátor
+
+> Repozitář pro projekt Remyho separátoru.
