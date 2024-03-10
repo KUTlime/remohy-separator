@@ -4,7 +4,7 @@
 
 ## Problém
 
-Remyho separátor je jednoduché zařízení, které s domácí léčbou strabismu (_šilhání očí_).  
+Remyho separátor je jednoduché zařízení, které může pomoci s domácí léčbou strabismu (_šilhání očí_).  
 
 Bohužel, nelze ho nikde zakoupit a existující zařízení v ortoptických ordinacích pocházejí z 70. let 20. století a není k nim náhrada.
 
